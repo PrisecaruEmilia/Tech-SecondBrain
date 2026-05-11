@@ -1,7 +1,11 @@
 
 ## APIs
-- [[REST API Design]]
-- [[GraphQL Basics]]
+- [[What is an API]]
+- [[HTTP Request Structure]]
+- [[HTTP Response Structure]]
+- [[HTTP Methods]]
+- [[HTTP Status Codes]]
+- [[HTTP Headers]]
 
 ## Authentication
 - [[JWT Authentication]]

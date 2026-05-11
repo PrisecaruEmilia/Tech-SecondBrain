@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d329c8b4cdce3f3d",
+        "id": "24a764918b96b8c2",
         "type": "tabs",
         "children": [
           {
-            "id": "eb0222fa4bf10b68",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Templates/Tech Concept Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tech Concept Template"
-            }
-          },
-          {
-            "id": "e02ccbac79ffbb8a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Backend/Caching.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Caching"
-            }
-          },
-          {
-            "id": "c61d86acba17c790",
+            "id": "132609c2826dab2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Backend/Caching.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Caching"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,26 +176,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c61d86acba17c790",
+  "active": "132609c2826dab2e",
   "lastOpenFiles": [
+    "03 - Resources/Backend/HTTP Response Structure.md",
+    "03 - Resources/Backend/Backend MOC.md",
+    "04 - Archive/API Fundamentals Raw Notes.md",
+    "03 - Resources/Backend/What is an API.md",
+    "03 - Resources/Backend/HTTP Status Codes.md",
+    "03 - Resources/Backend/HTTP Request Structure.md",
+    "03 - Resources/Backend/HTTP Methods.md",
+    "03 - Resources/Backend/HTTP Headers.md",
+    "01 - Projects/Learn REST APIs/Course Progress.md",
+    "99 - Templates/Tech Concept Template.md",
+    "REST API Design.md",
+    "01 - Projects/Learn REST APIs/Daily Notes.md",
+    "03 - Resources/Backend/Caching.md",
+    "99 - Templates/Tech Project Template.md",
+    "01 - Projects/Learn REST APIs/Commands.md",
+    "01 - Projects/Learn REST APIs/Errors.md",
+    "01 - Projects/Learn REST APIs/Exercises.md",
+    "01 - Projects/Learn Docker/Commands.md",
+    "01 - Projects/Learn REST APIs",
     "03 - Resources/DevOps/Docker Networking.md",
     "03 - Resources/DevOps/Docker Volumes.md",
     "01 - Projects/Learn Docker/Course Progress.md",
-    "01 - Projects/Learn Docker/Commands.md",
     "01 - Projects/Learn Docker/Errors.md",
     "01 - Projects/Learn Docker/Exercises.md",
     "01 - Projects/Learn Docker/Daily Notes.md",
     "99 - Templates/Daily Capture Template.md",
     "01 - Projects/Learn Docker",
     "01 - Projects/Untitled.md",
-    "99 - Templates/Tech Project Template.md",
-    "99 - Templates/Tech Concept Template.md",
-    "03 - Resources/Backend/Caching.md",
-    "03 - Resources/Backend/Backend MOC.md",
-    "03 - Resources/Backend.md",
     "03 - Resources/Tools",
     "03 - Resources/Databases",
     "03 - Resources/DevOps",
@@ -240,8 +218,6 @@
     "03 - Resources/Backend",
     "Untitled",
     "03 - Resources/Programming Languages",
-    "Welcome.md",
-    "99 - Templates",
-    "04 - Archive"
+    "99 - Templates"
   ]
 }
